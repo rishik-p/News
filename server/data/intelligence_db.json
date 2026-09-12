@@ -1,0 +1,1657 @@
+{
+  "lastNightSync": "2026-09-11T18:00:00.000Z",
+  "lastOpenSync": "2026-09-12T20:04:11.108Z",
+  "lastSyncedAt": "2026-09-12T20:04:11.108Z",
+  "syncType": "APP_OPEN_SYNC",
+  "totalStories": 13,
+  "totalAllNews": 15,
+  "totalGlobalNews": 35,
+  "items": [
+    {
+      "title": "Sun Pharma receives US FDA approval for novel dermatological formulation with 180-day exclusivity",
+      "sourceName": "Livemint",
+      "link": "https://www.livemint.com/market/stock-market-news",
+      "pubDate": "2026-09-12T19:28:46.955Z",
+      "description": "Sun Pharmaceutical Industries announced that the US FDA has granted approval for its new drug application (NDA) with 180-day generic exclusivity in the US market, expanding its high-margin global specialty portfolio.",
+      "originalTitle": "Sun Pharma receives US FDA approval for novel dermatological formulation with 180-day exclusivity",
+      "duplicatesCount": 2,
+      "sources": [
+        {
+          "name": "Livemint",
+          "url": "https://www.livemint.com/market/stock-market-news",
+          "pubDate": "2026-09-12T19:28:46.955Z"
+        },
+        {
+          "name": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news",
+          "pubDate": "2026-09-12T19:31:46.955Z"
+        }
+      ],
+      "sector": "Pharma",
+      "detectedStock": {
+        "symbol": "SUNPHARMA",
+        "nseTicker": "SUNPHARMA.NS",
+        "name": "Sun Pharma",
+        "benchmark20dAvgVol": 2300000
+      },
+      "marketImpactScore": 98,
+      "impactLevel": "HIGH",
+      "bias": "Bullish",
+      "triggerToWatch": "Post-earnings investor concall and guidance revisions",
+      "executiveBrief": {
+        "bullet1": "Sun Pharmaceutical Industries announced that the US FDA has granted approval for its new drug application (NDA) with 180-day generic exclusivity in the US market, expanding it...",
+        "bullet2": "Expected to provide near-term valuation support for Sun Pharma, expanding trading multiples and attracting institutional accumulation."
+      },
+      "volumeCheck": {
+        "symbol": "SUNPHARMA",
+        "nseTicker": "SUNPHARMA.NS",
+        "name": "Sun Pharma",
+        "currentPrice": 3475,
+        "dayChangePercent": -1.8,
+        "currentVolume": 5681000,
+        "currentVolumeFormatted": "56.81 L",
+        "avg20dVolume": 2300000,
+        "avg20dVolumeFormatted": "23.00 L",
+        "volumeRatio": 2.47,
+        "classification": "INSTITUTIONAL_DISTRIBUTION",
+        "badgeText": "Institutional Distribution",
+        "badgeColor": "rose",
+        "radarVerdict": "DISTRIBUTION",
+        "radarScore": 88,
+        "interpretation": "Surging volume (+1.8x) accompanied by downward price pressure indicates institutional liquidation or promoter block selling.",
+        "isLive": false
+      }
+    },
+    {
+      "title": "Tata Motors commercial vehicle demerger gets final NCLT approval; listing expected in Q3",
+      "sourceName": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/tags/tata-motors.html",
+      "pubDate": "2026-09-12T18:58:46.955Z",
+      "description": "Tata Motors has received final approval from the National Company Law Tribunal (NCLT) for the demerger of its passenger vehicles and commercial vehicles businesses into two standalone listed entities.",
+      "originalTitle": "Tata Motors commercial vehicle demerger gets final NCLT approval; listing expected in Q3",
+      "duplicatesCount": 2,
+      "sources": [
+        {
+          "name": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/tags/tata-motors.html",
+          "pubDate": "2026-09-12T18:58:46.955Z"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/markets",
+          "pubDate": "2026-09-12T19:03:46.955Z"
+        }
+      ],
+      "sector": "Auto",
+      "detectedStock": {
+        "symbol": "TATAMOTORS",
+        "nseTicker": "TATAMOTORS.NS",
+        "name": "Tata Motors",
+        "benchmark20dAvgVol": 9400000
+      },
+      "marketImpactScore": 87,
+      "impactLevel": "HIGH",
+      "bias": "Bullish",
+      "triggerToWatch": "NCLT record date & separate listing timeline",
+      "executiveBrief": {
+        "bullet1": "Tata Motors has received final approval from the National Company Law Tribunal (NCLT) for the demerger of its passenger vehicles and commercial vehicles businesses into two st...",
+        "bullet2": "Expected to provide near-term valuation support for Tata Motors, expanding trading multiples and attracting institutional accumulation."
+      },
+      "volumeCheck": {
+        "symbol": "TATAMOTORS",
+        "nseTicker": "TATAMOTORS.NS",
+        "name": "Tata Motors",
+        "currentPrice": 2740,
+        "dayChangePercent": -1.8,
+        "currentVolume": 18875200,
+        "currentVolumeFormatted": "1.89 Cr",
+        "avg20dVolume": 9400000,
+        "avg20dVolumeFormatted": "94.00 L",
+        "volumeRatio": 2.01,
+        "classification": "INSTITUTIONAL_DISTRIBUTION",
+        "badgeText": "Institutional Distribution",
+        "badgeColor": "rose",
+        "radarVerdict": "DISTRIBUTION",
+        "radarScore": 88,
+        "interpretation": "Surging volume (+1.8x) accompanied by downward price pressure indicates institutional liquidation or promoter block selling.",
+        "isLive": false
+      }
+    },
+    {
+      "title": "HDFC Bank reports 16.8% YoY net profit growth as net interest margins stabilize at 3.65%",
+      "sourceName": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance",
+      "pubDate": "2026-09-12T18:13:46.955Z",
+      "description": "India's largest private lender HDFC Bank beat Dalal Street estimates with robust double-digit credit growth and stabilizing net interest margins following post-merger branch deposit mobilization.",
+      "originalTitle": "HDFC Bank reports 16.8% YoY net profit growth as net interest margins stabilize at 3.65%",
+      "duplicatesCount": 1,
+      "sources": [
+        {
+          "name": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance",
+          "pubDate": "2026-09-12T18:13:46.955Z"
+        }
+      ],
+      "sector": "BFSI",
+      "detectedStock": {
+        "symbol": "HDFCBANK",
+        "nseTicker": "HDFCBANK.NS",
+        "name": "HDFC Bank",
+        "benchmark20dAvgVol": 18500000
+      },
+      "marketImpactScore": 80,
+      "impactLevel": "HIGH",
+      "bias": "Bullish",
+      "triggerToWatch": "NCLT record date & separate listing timeline",
+      "executiveBrief": {
+        "bullet1": "India's largest private lender HDFC Bank beat Dalal Street estimates with robust double-digit credit growth and stabilizing net interest margins following post-merger branch d...",
+        "bullet2": "Expected to provide near-term valuation support for HDFC Bank, expanding trading multiples and attracting institutional accumulation."
+      },
+      "volumeCheck": {
+        "symbol": "HDFCBANK",
+        "nseTicker": "HDFCBANK.NS",
+        "name": "HDFC Bank",
+        "currentPrice": 708.25,
+        "dayChangePercent": -2.85,
+        "currentVolume": 31411934,
+        "currentVolumeFormatted": "3.14 Cr",
+        "avg20dVolume": 27117177,
+        "avg20dVolumeFormatted": "2.71 Cr",
+        "volumeRatio": 1.16,
+        "classification": "NORMAL",
+        "badgeText": "Normal Activity",
+        "badgeColor": "blue",
+        "radarVerdict": "BALANCED_FLOW",
+        "radarScore": 50,
+        "interpretation": "Trading volume is within normal historical ranges. Balanced retail and institutional participation.",
+        "isLive": true
+      }
+    },
+    {
+      "title": "RBI leaves repo rate unchanged at 6.50%; shifts monetary policy stance to neutral",
+      "sourceName": "Livemint",
+      "link": "https://www.livemint.com/economy",
+      "pubDate": "2026-09-12T17:33:46.955Z",
+      "description": "The Reserve Bank of India's Monetary Policy Committee voted to keep the policy repo rate steady at 6.50% while shifting to a neutral stance, opening the door for potential liquidity easing in upcoming quarters.",
+      "originalTitle": "RBI leaves repo rate unchanged at 6.50%; shifts monetary policy stance to neutral",
+      "duplicatesCount": 1,
+      "sources": [
+        {
+          "name": "Livemint",
+          "url": "https://www.livemint.com/economy",
+          "pubDate": "2026-09-12T17:33:46.955Z"
+        }
+      ],
+      "sector": "BFSI",
+      "detectedStock": null,
+      "marketImpactScore": 83,
+      "impactLevel": "HIGH",
+      "bias": "Bearish",
+      "triggerToWatch": "RBI governor policy commentary & bank regulatory approval",
+      "executiveBrief": {
+        "bullet1": "The Reserve Bank of India's Monetary Policy Committee voted to keep the policy repo rate steady at 6.50% while shifting to a neutral stance, opening the door for potential liq...",
+        "bullet2": "May trigger profit booking and heightened volatility for BFSI, testing key moving averages as risk premiums expand."
+      },
+      "volumeCheck": null
+    },
+    {
+      "title": "Reliance Industries signs $1.5 billion green hydrogen electrolyser pact with European consortium",
+      "sourceName": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/tags/reliance-industries.html",
+      "pubDate": "2026-09-12T17:03:46.955Z",
+      "description": "Reliance New Energy has entered into a strategic collaboration for multi-gigawatt electrolyser manufacturing at Jamnagar, targeting clean hydrogen production costs below $1.5/kg by 2028.",
+      "originalTitle": "Reliance Industries signs $1.5 billion green hydrogen electrolyser pact with European consortium",
+      "duplicatesCount": 1,
+      "sources": [
+        {
+          "name": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/tags/reliance-industries.html",
+          "pubDate": "2026-09-12T17:03:46.955Z"
+        }
+      ],
+      "sector": "Energy",
+      "detectedStock": {
+        "symbol": "RELIANCE",
+        "nseTicker": "RELIANCE.NS",
+        "name": "Reliance Industries",
+        "benchmark20dAvgVol": 6200000
+      },
+      "marketImpactScore": 80,
+      "impactLevel": "HIGH",
+      "bias": "Volatile",
+      "triggerToWatch": "Execution schedule & revenue recognition over next quarters",
+      "executiveBrief": {
+        "bullet1": "Reliance New Energy has entered into a strategic collaboration for multi-gigawatt electrolyser manufacturing at Jamnagar, targeting clean hydrogen production costs below $1.5/...",
+        "bullet2": "Creates two-way price action across Energy; investors will watch upcoming management commentary to gauge fundamental impact."
+      },
+      "volumeCheck": {
+        "symbol": "RELIANCE",
+        "nseTicker": "RELIANCE.NS",
+        "name": "Reliance Industries",
+        "currentPrice": 1257.5,
+        "dayChangePercent": -5.02,
+        "currentVolume": 8777736,
+        "currentVolumeFormatted": "87.78 L",
+        "avg20dVolume": 10712490,
+        "avg20dVolumeFormatted": "1.07 Cr",
+        "volumeRatio": 0.82,
+        "classification": "NORMAL",
+        "badgeText": "Normal Activity",
+        "badgeColor": "blue",
+        "radarVerdict": "BALANCED_FLOW",
+        "radarScore": 50,
+        "interpretation": "Trading volume is within normal historical ranges. Balanced retail and institutional participation.",
+        "isLive": true
+      }
+    },
+    {
+      "title": "TCS bags $950 million multi-year cloud transformation contract from UK financial group",
+      "sourceName": "Business Standard",
+      "link": "https://www.business-standard.com/companies",
+      "pubDate": "2026-09-12T16:33:46.955Z",
+      "description": "Tata Consultancy Services has expanded its relationship with a top UK banking institution with a landmark $950 million multi-year deal to modernize core banking legacy systems using enterprise AI.",
+      "originalTitle": "TCS bags $950 million multi-year cloud transformation contract from UK financial group",
+      "duplicatesCount": 1,
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies",
+          "pubDate": "2026-09-12T16:33:46.955Z"
+        }
+      ],
+      "sector": "IT",
+      "detectedStock": {
+        "symbol": "TCS",
+        "nseTicker": "TCS.NS",
+        "name": "Tata Consultancy Services",
+        "benchmark20dAvgVol": 2100000
+      },
+      "marketImpactScore": 76,
+      "impactLevel": "MODERATE",
+      "bias": "Bearish",
+      "triggerToWatch": "Execution schedule & revenue recognition over next quarters",
+      "executiveBrief": {
+        "bullet1": "Tata Consultancy Services has expanded its relationship with a top UK banking institution with a landmark $950 million multi-year deal to modernize core banking legacy systems...",
+        "bullet2": "May trigger profit booking and heightened volatility for Tata Consultancy Services, testing key moving averages as risk premiums expand."
+      },
+      "volumeCheck": {
+        "symbol": "TCS",
+        "nseTicker": "TCS.NS",
+        "name": "Tata Consultancy Services",
+        "currentPrice": 2200.8,
+        "dayChangePercent": -10.01,
+        "currentVolume": 2634124,
+        "currentVolumeFormatted": "26.34 L",
+        "avg20dVolume": 2452100,
+        "avg20dVolumeFormatted": "24.52 L",
+        "volumeRatio": 1.07,
+        "classification": "NORMAL",
+        "badgeText": "Normal Activity",
+        "badgeColor": "blue",
+        "radarVerdict": "BALANCED_FLOW",
+        "radarScore": 50,
+        "interpretation": "Trading volume is within normal historical ranges. Balanced retail and institutional participation.",
+        "isLive": true
+      }
+    },
+    {
+      "title": "Government considers 12% safeguard duty on Chinese steel imports to protect domestic mills",
+      "sourceName": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel",
+      "pubDate": "2026-09-12T16:03:46.955Z",
+      "description": "The Ministry of Commerce and Steel are evaluating urgent tariff safeguards against predatory Chinese hot-rolled coil dumping, a move expected to provide relief to Tata Steel, JSW Steel, and Jindal Steel.",
+      "originalTitle": "Government considers 12% safeguard duty on Chinese steel imports to protect domestic mills",
+      "duplicatesCount": 1,
+      "sources": [
+        {
+          "name": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel",
+          "pubDate": "2026-09-12T16:03:46.955Z"
+        }
+      ],
+      "sector": "Metals",
+      "detectedStock": {
+        "symbol": "TATASTEEL",
+        "nseTicker": "TATASTEEL.NS",
+        "name": "Tata Steel",
+        "benchmark20dAvgVol": 38000000
+      },
+      "marketImpactScore": 73,
+      "impactLevel": "MODERATE",
+      "bias": "Bullish",
+      "triggerToWatch": "Ministry of Finance gazette notification & sector margin impact",
+      "executiveBrief": {
+        "bullet1": "The Ministry of Commerce and Steel are evaluating urgent tariff safeguards against predatory Chinese hot-rolled coil dumping, a move expected to provide relief to Tata Steel, ...",
+        "bullet2": "Expected to provide near-term valuation support for Tata Steel, expanding trading multiples and attracting institutional accumulation."
+      },
+      "volumeCheck": {
+        "symbol": "TATASTEEL",
+        "nseTicker": "TATASTEEL.NS",
+        "name": "Tata Steel",
+        "currentPrice": 183,
+        "dayChangePercent": -2.79,
+        "currentVolume": 31510206,
+        "currentVolumeFormatted": "3.15 Cr",
+        "avg20dVolume": 28918013,
+        "avg20dVolumeFormatted": "2.89 Cr",
+        "volumeRatio": 1.09,
+        "classification": "NORMAL",
+        "badgeText": "Normal Activity",
+        "badgeColor": "blue",
+        "radarVerdict": "BALANCED_FLOW",
+        "radarScore": 50,
+        "interpretation": "Trading volume is within normal historical ranges. Balanced retail and institutional participation.",
+        "isLive": true
+      }
+    },
+    {
+      "title": "DLF acquires 32-acre prime land parcel in Gurugram for ₹1,850 crore luxury housing project",
+      "sourceName": "Livemint",
+      "link": "https://www.livemint.com/companies/news",
+      "pubDate": "2026-09-12T15:13:46.955Z",
+      "description": "Realty major DLF has expanded its super-luxury residential pipeline in Gurugram with an outright land purchase, with an estimated sales gross development value exceeding ₹7,500 crore.",
+      "originalTitle": "DLF acquires 32-acre prime land parcel in Gurugram for ₹1,850 crore luxury housing project",
+      "duplicatesCount": 1,
+      "sources": [
+        {
+          "name": "Livemint",
+          "url": "https://www.livemint.com/companies/news",
+          "pubDate": "2026-09-12T15:13:46.955Z"
+        }
+      ],
+      "sector": "Realty",
+      "detectedStock": {
+        "symbol": "DLF",
+        "nseTicker": "DLF.NS",
+        "name": "DLF Ltd",
+        "benchmark20dAvgVol": 4200000
+      },
+      "marketImpactScore": 80,
+      "impactLevel": "HIGH",
+      "bias": "Volatile",
+      "triggerToWatch": "Execution schedule & revenue recognition over next quarters",
+      "executiveBrief": {
+        "bullet1": "Realty major DLF has expanded its super-luxury residential pipeline in Gurugram with an outright land purchase, with an estimated sales gross development value exceeding ₹7,50...",
+        "bullet2": "Creates two-way price action across Realty; investors will watch upcoming management commentary to gauge fundamental impact."
+      },
+      "volumeCheck": {
+        "symbol": "DLF",
+        "nseTicker": "DLF.NS",
+        "name": "DLF Ltd",
+        "currentPrice": 644.5,
+        "dayChangePercent": -0.86,
+        "currentVolume": 4502321,
+        "currentVolumeFormatted": "45.02 L",
+        "avg20dVolume": 3626624,
+        "avg20dVolumeFormatted": "36.27 L",
+        "volumeRatio": 1.24,
+        "classification": "NORMAL",
+        "badgeText": "Normal Activity",
+        "badgeColor": "blue",
+        "radarVerdict": "BALANCED_FLOW",
+        "radarScore": 50,
+        "interpretation": "Trading volume is within normal historical ranges. Balanced retail and institutional participation.",
+        "isLive": true
+      }
+    },
+    {
+      "title": "ITC FMCG business delivers margin expansion as rural demand accelerates in Q3",
+      "sourceName": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/tags/itc.html",
+      "pubDate": "2026-09-12T14:43:46.955Z",
+      "description": "ITC reported strong double-digit growth in its foods and personal care divisions, bolstered by monsoon recovery and rural distribution expansion across North and Central India.",
+      "originalTitle": "ITC FMCG business delivers margin expansion as rural demand accelerates in Q3",
+      "duplicatesCount": 1,
+      "sources": [
+        {
+          "name": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/tags/itc-ltd.html",
+          "pubDate": "2026-09-12T14:43:46.955Z"
+        }
+      ],
+      "sector": "FMCG",
+      "detectedStock": {
+        "symbol": "ITC",
+        "nseTicker": "ITC.NS",
+        "name": "ITC Ltd",
+        "benchmark20dAvgVol": 11000000
+      },
+      "marketImpactScore": 71,
+      "impactLevel": "MODERATE",
+      "bias": "Bullish",
+      "triggerToWatch": "Post-earnings investor concall and guidance revisions",
+      "executiveBrief": {
+        "bullet1": "ITC reported strong double-digit growth in its foods and personal care divisions, bolstered by monsoon recovery and rural distribution expansion across North and Central India.",
+        "bullet2": "Expected to provide near-term valuation support for ITC Ltd, expanding trading multiples and attracting institutional accumulation."
+      },
+      "volumeCheck": {
+        "symbol": "ITC",
+        "nseTicker": "ITC.NS",
+        "name": "ITC Ltd",
+        "currentPrice": 259.85,
+        "dayChangePercent": -6.86,
+        "currentVolume": 11116049,
+        "currentVolumeFormatted": "1.11 Cr",
+        "avg20dVolume": 14052712,
+        "avg20dVolumeFormatted": "1.41 Cr",
+        "volumeRatio": 0.79,
+        "classification": "RETAIL_NOISE",
+        "badgeText": "Retail Noise",
+        "badgeColor": "slate",
+        "radarVerdict": "RETAIL_NOISE",
+        "radarScore": 32,
+        "interpretation": "Subdued volume below the 20-day average. Price movement lacks big-fund backing; primarily retail speculation.",
+        "isLive": true
+      }
+    },
+    {
+      "title": "SEBI issues consultation paper to curb derivative frenzy; proposes higher contract sizes",
+      "sourceName": "Business Standard",
+      "link": "https://www.business-standard.com/markets",
+      "pubDate": "2026-09-12T14:03:46.955Z",
+      "description": "Markets regulator SEBI has proposed increasing minimum derivative contract sizes from ₹5 lakh to ₹15-20 lakh and restricting weekly index options expiries to one per exchange to protect retail capital.",
+      "originalTitle": "SEBI issues consultation paper to curb derivative frenzy; proposes higher contract sizes",
+      "duplicatesCount": 1,
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/markets",
+          "pubDate": "2026-09-12T14:03:46.955Z"
+        }
+      ],
+      "sector": "IT",
+      "detectedStock": null,
+      "marketImpactScore": 83,
+      "impactLevel": "HIGH",
+      "bias": "Bearish",
+      "triggerToWatch": "SEBI board consultation feedback & final exchange circular",
+      "executiveBrief": {
+        "bullet1": "Markets regulator SEBI has proposed increasing minimum derivative contract sizes from ₹5 lakh to ₹15-20 lakh and restricting weekly index options expiries to one per exchange ...",
+        "bullet2": "May trigger profit booking and heightened volatility for IT, testing key moving averages as risk premiums expand."
+      },
+      "volumeCheck": null
+    },
+    {
+      "title": "Infosys expands generative AI suite Topaz; signs AI governance partnership with global telco",
+      "sourceName": "The Hindu BusinessLine",
+      "link": "https://www.thehindubusinessline.com/info-tech",
+      "pubDate": "2026-09-12T13:13:46.955Z",
+      "description": "Infosys announced key enterprise wins for its generative AI platform Topaz, accelerating recurring revenue visibility in generative intelligence and automation advisory.",
+      "originalTitle": "Infosys expands generative AI suite Topaz; signs AI governance partnership with global telco",
+      "duplicatesCount": 1,
+      "sources": [
+        {
+          "name": "The Hindu BusinessLine",
+          "url": "https://www.thehindubusinessline.com/info-tech",
+          "pubDate": "2026-09-12T13:13:46.955Z"
+        }
+      ],
+      "sector": "IT",
+      "detectedStock": {
+        "symbol": "INFY",
+        "nseTicker": "INFY.NS",
+        "name": "Infosys",
+        "benchmark20dAvgVol": 5400000
+      },
+      "marketImpactScore": 70,
+      "impactLevel": "MODERATE",
+      "bias": "Volatile",
+      "triggerToWatch": "Post-earnings investor concall and guidance revisions",
+      "executiveBrief": {
+        "bullet1": "Infosys announced key enterprise wins for its generative AI platform Topaz, accelerating recurring revenue visibility in generative intelligence and automation advisory.",
+        "bullet2": "Creates two-way price action across IT; investors will watch upcoming management commentary to gauge fundamental impact."
+      },
+      "volumeCheck": {
+        "symbol": "INFY",
+        "nseTicker": "INFY.NS",
+        "name": "Infosys",
+        "currentPrice": 1037.7,
+        "dayChangePercent": -12.85,
+        "currentVolume": 6168088,
+        "currentVolumeFormatted": "61.68 L",
+        "avg20dVolume": 8124444,
+        "avg20dVolumeFormatted": "81.24 L",
+        "volumeRatio": 0.76,
+        "classification": "RETAIL_NOISE",
+        "badgeText": "Retail Noise",
+        "badgeColor": "slate",
+        "radarVerdict": "RETAIL_NOISE",
+        "radarScore": 32,
+        "interpretation": "Subdued volume below the 20-day average. Price movement lacks big-fund backing; primarily retail speculation.",
+        "isLive": true
+      }
+    },
+    {
+      "title": "Mahindra & Mahindra auto sales jump 22% in February on strong Thar Roxx and Scorpio-N demand",
+      "sourceName": "Livemint",
+      "link": "https://www.livemint.com/auto",
+      "pubDate": "2026-09-12T12:43:46.955Z",
+      "description": "M&M reported domestic SUV dispatch volume of 46,200 units, representing 22% year-on-year growth driven by continuous order bookings for premium 4x4 and mid-size SUV variants.",
+      "originalTitle": "Mahindra & Mahindra auto sales jump 22% in February on strong Thar Roxx and Scorpio-N demand",
+      "duplicatesCount": 1,
+      "sources": [
+        {
+          "name": "Livemint",
+          "url": "https://www.livemint.com/auto",
+          "pubDate": "2026-09-12T12:43:46.955Z"
+        }
+      ],
+      "sector": "Auto",
+      "detectedStock": {
+        "symbol": "M&M",
+        "nseTicker": "M&M.NS",
+        "name": "Mahindra & Mahindra",
+        "benchmark20dAvgVol": 3100000
+      },
+      "marketImpactScore": 68,
+      "impactLevel": "MODERATE",
+      "bias": "Bullish",
+      "triggerToWatch": "Post-earnings investor concall and guidance revisions",
+      "executiveBrief": {
+        "bullet1": "M&M reported domestic SUV dispatch volume of 46,200 units, representing 22% year-on-year growth driven by continuous order bookings for premium 4x4 and mid-size SUV variants.",
+        "bullet2": "Expected to provide near-term valuation support for Mahindra & Mahindra, expanding trading multiples and attracting institutional accumulation."
+      },
+      "volumeCheck": {
+        "symbol": "M&M",
+        "nseTicker": "M&M.NS",
+        "name": "Mahindra & Mahindra",
+        "currentPrice": 3107,
+        "dayChangePercent": -10.2,
+        "currentVolume": 1311484,
+        "currentVolumeFormatted": "13.11 L",
+        "avg20dVolume": 1698625,
+        "avg20dVolumeFormatted": "16.99 L",
+        "volumeRatio": 0.77,
+        "classification": "RETAIL_NOISE",
+        "badgeText": "Retail Noise",
+        "badgeColor": "slate",
+        "radarVerdict": "RETAIL_NOISE",
+        "radarScore": 32,
+        "interpretation": "Subdued volume below the 20-day average. Price movement lacks big-fund backing; primarily retail speculation.",
+        "isLive": true
+      }
+    },
+    {
+      "title": "Cipla receives zero 483 observations from US FDA for its Pithampur manufacturing unit",
+      "sourceName": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/tags/cipla.html",
+      "pubDate": "2026-09-12T12:03:46.955Z",
+      "description": "Pharma heavyweight Cipla announced successful closure of US FDA cGMP inspection at its key Pithampur formulation plant with clean EIR and zero inspection observations.",
+      "originalTitle": "Cipla receives zero 483 observations from US FDA for its Pithampur manufacturing unit",
+      "duplicatesCount": 1,
+      "sources": [
+        {
+          "name": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/tags/cipla.html",
+          "pubDate": "2026-09-12T12:03:46.955Z"
+        }
+      ],
+      "sector": "Pharma",
+      "detectedStock": {
+        "symbol": "CIPLA",
+        "nseTicker": "CIPLA.NS",
+        "name": "Cipla",
+        "benchmark20dAvgVol": 1650000
+      },
+      "marketImpactScore": 84,
+      "impactLevel": "HIGH",
+      "bias": "Volatile",
+      "triggerToWatch": "US FDA inspection EIR status & facilities audit clearance",
+      "executiveBrief": {
+        "bullet1": "Pharma heavyweight Cipla announced successful closure of US FDA cGMP inspection at its key Pithampur formulation plant with clean EIR and zero inspection observations.",
+        "bullet2": "Creates two-way price action across Pharma; investors will watch upcoming management commentary to gauge fundamental impact."
+      },
+      "volumeCheck": {
+        "symbol": "CIPLA",
+        "nseTicker": "CIPLA.NS",
+        "name": "Cipla",
+        "currentPrice": 1366,
+        "dayChangePercent": -6.63,
+        "currentVolume": 1681155,
+        "currentVolumeFormatted": "16.81 L",
+        "avg20dVolume": 791712,
+        "avg20dVolumeFormatted": "7.92 L",
+        "volumeRatio": 2.12,
+        "classification": "INSTITUTIONAL_DISTRIBUTION",
+        "badgeText": "Institutional Distribution",
+        "badgeColor": "rose",
+        "radarVerdict": "DISTRIBUTION",
+        "radarScore": 88,
+        "interpretation": "Surging volume (+1.8x) accompanied by downward price pressure indicates institutional liquidation or promoter block selling.",
+        "isLive": true
+      }
+    }
+  ],
+  "allNews": [
+    {
+      "id": "all-1-1789243440245",
+      "title": "Sun Pharma shares climb 3% after US FDA nod for key specialty drug formulation",
+      "sourceName": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news",
+      "originalLink": "https://economictimes.indiatimes.com/markets/stocks/news",
+      "pubDate": "2026-09-12T19:31:46.955Z",
+      "description": "Sun Pharma rallied over 3% in trade today following the receipt of US FDA approval for its proprietary specialty drug, prompting multiple foreign brokerages to upgrade earnings estimates.",
+      "sector": "Pharma",
+      "detectedStock": {
+        "symbol": "SUNPHARMA",
+        "name": "Sun Pharma"
+      },
+      "impactScore": 98,
+      "impactLevel": "HIGH"
+    },
+    {
+      "id": "all-0-1789243440245",
+      "title": "Sun Pharma receives US FDA approval for novel dermatological formulation with 180-day exclusivity",
+      "sourceName": "Livemint",
+      "link": "https://www.livemint.com/market/stock-market-news",
+      "originalLink": "https://www.livemint.com/market/stock-market-news",
+      "pubDate": "2026-09-12T19:28:46.955Z",
+      "description": "Sun Pharmaceutical Industries announced that the US FDA has granted approval for its new drug application (NDA) with 180-day generic exclusivity in the US market, expanding its high-margin global specialty portfolio.",
+      "sector": "Pharma",
+      "detectedStock": {
+        "symbol": "SUNPHARMA",
+        "name": "Sun Pharma"
+      },
+      "impactScore": 98,
+      "impactLevel": "HIGH"
+    },
+    {
+      "id": "all-3-1789243440245",
+      "title": "Tata Motors demerger gets NCLT green light; passenger & EV arm to list separately",
+      "sourceName": "Business Standard",
+      "link": "https://www.business-standard.com/markets",
+      "originalLink": "https://www.business-standard.com/markets",
+      "pubDate": "2026-09-12T19:03:46.955Z",
+      "description": "NCLT grants clearance to Tata Motors restructuring plan to create two distinct listed champions for commercial vehicles and passenger electric mobility.",
+      "sector": "Auto",
+      "detectedStock": {
+        "symbol": "TATAMOTORS",
+        "name": "Tata Motors"
+      },
+      "impactScore": 76,
+      "impactLevel": "MODERATE"
+    },
+    {
+      "id": "all-2-1789243440245",
+      "title": "Tata Motors commercial vehicle demerger gets final NCLT approval; listing expected in Q3",
+      "sourceName": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/tags/tata-motors.html",
+      "originalLink": "https://www.moneycontrol.com/news/tags/tata-motors.html",
+      "pubDate": "2026-09-12T18:58:46.955Z",
+      "description": "Tata Motors has received final approval from the National Company Law Tribunal (NCLT) for the demerger of its passenger vehicles and commercial vehicles businesses into two standalone listed entities.",
+      "sector": "Auto",
+      "detectedStock": {
+        "symbol": "TATAMOTORS",
+        "name": "Tata Motors"
+      },
+      "impactScore": 79,
+      "impactLevel": "MODERATE"
+    },
+    {
+      "id": "all-4-1789243440246",
+      "title": "HDFC Bank reports 16.8% YoY net profit growth as net interest margins stabilize at 3.65%",
+      "sourceName": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance",
+      "originalLink": "https://economictimes.indiatimes.com/industry/banking/finance",
+      "pubDate": "2026-09-12T18:13:46.955Z",
+      "description": "India's largest private lender HDFC Bank beat Dalal Street estimates with robust double-digit credit growth and stabilizing net interest margins following post-merger branch deposit mobilization.",
+      "sector": "BFSI",
+      "detectedStock": {
+        "symbol": "HDFCBANK",
+        "name": "HDFC Bank"
+      },
+      "impactScore": 72,
+      "impactLevel": "MODERATE"
+    },
+    {
+      "id": "all-5-1789243440246",
+      "title": "RBI leaves repo rate unchanged at 6.50%; shifts monetary policy stance to neutral",
+      "sourceName": "Livemint",
+      "link": "https://www.livemint.com/economy",
+      "originalLink": "https://www.livemint.com/economy",
+      "pubDate": "2026-09-12T17:33:46.955Z",
+      "description": "The Reserve Bank of India's Monetary Policy Committee voted to keep the policy repo rate steady at 6.50% while shifting to a neutral stance, opening the door for potential liquidity easing in upcoming quarters.",
+      "sector": "BFSI",
+      "detectedStock": null,
+      "impactScore": 83,
+      "impactLevel": "HIGH"
+    },
+    {
+      "id": "all-6-1789243440246",
+      "title": "Reliance Industries signs $1.5 billion green hydrogen electrolyser pact with European consortium",
+      "sourceName": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/tags/reliance-industries.html",
+      "originalLink": "https://www.moneycontrol.com/news/tags/reliance-industries.html",
+      "pubDate": "2026-09-12T17:03:46.955Z",
+      "description": "Reliance New Energy has entered into a strategic collaboration for multi-gigawatt electrolyser manufacturing at Jamnagar, targeting clean hydrogen production costs below $1.5/kg by 2028.",
+      "sector": "Energy",
+      "detectedStock": {
+        "symbol": "RELIANCE",
+        "name": "Reliance Industries"
+      },
+      "impactScore": 72,
+      "impactLevel": "MODERATE"
+    },
+    {
+      "id": "all-7-1789243440246",
+      "title": "TCS bags $950 million multi-year cloud transformation contract from UK financial group",
+      "sourceName": "Business Standard",
+      "link": "https://www.business-standard.com/companies",
+      "originalLink": "https://www.business-standard.com/companies",
+      "pubDate": "2026-09-12T16:33:46.955Z",
+      "description": "Tata Consultancy Services has expanded its relationship with a top UK banking institution with a landmark $950 million multi-year deal to modernize core banking legacy systems using enterprise AI.",
+      "sector": "IT",
+      "detectedStock": {
+        "symbol": "TCS",
+        "name": "Tata Consultancy Services"
+      },
+      "impactScore": 68,
+      "impactLevel": "MODERATE"
+    },
+    {
+      "id": "all-8-1789243440246",
+      "title": "Government considers 12% safeguard duty on Chinese steel imports to protect domestic mills",
+      "sourceName": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel",
+      "originalLink": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel",
+      "pubDate": "2026-09-12T16:03:46.955Z",
+      "description": "The Ministry of Commerce and Steel are evaluating urgent tariff safeguards against predatory Chinese hot-rolled coil dumping, a move expected to provide relief to Tata Steel, JSW Steel, and Jindal Steel.",
+      "sector": "Metals",
+      "detectedStock": {
+        "symbol": "TATASTEEL",
+        "name": "Tata Steel"
+      },
+      "impactScore": 65,
+      "impactLevel": "MODERATE"
+    },
+    {
+      "id": "all-9-1789243440247",
+      "title": "DLF acquires 32-acre prime land parcel in Gurugram for ₹1,850 crore luxury housing project",
+      "sourceName": "Livemint",
+      "link": "https://www.livemint.com/companies/news",
+      "originalLink": "https://www.livemint.com/companies/news",
+      "pubDate": "2026-09-12T15:13:46.955Z",
+      "description": "Realty major DLF has expanded its super-luxury residential pipeline in Gurugram with an outright land purchase, with an estimated sales gross development value exceeding ₹7,500 crore.",
+      "sector": "Realty",
+      "detectedStock": {
+        "symbol": "DLF",
+        "name": "DLF Ltd"
+      },
+      "impactScore": 72,
+      "impactLevel": "MODERATE"
+    },
+    {
+      "id": "all-10-1789243440247",
+      "title": "ITC FMCG business delivers margin expansion as rural demand accelerates in Q3",
+      "sourceName": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/tags/itc-ltd.html",
+      "originalLink": "https://www.moneycontrol.com/news/tags/itc.html",
+      "pubDate": "2026-09-12T14:43:46.955Z",
+      "description": "ITC reported strong double-digit growth in its foods and personal care divisions, bolstered by monsoon recovery and rural distribution expansion across North and Central India.",
+      "sector": "FMCG",
+      "detectedStock": {
+        "symbol": "ITC",
+        "name": "ITC Ltd"
+      },
+      "impactScore": 63,
+      "impactLevel": "MODERATE"
+    },
+    {
+      "id": "all-11-1789243440248",
+      "title": "SEBI issues consultation paper to curb derivative frenzy; proposes higher contract sizes",
+      "sourceName": "Business Standard",
+      "link": "https://www.business-standard.com/markets",
+      "originalLink": "https://www.business-standard.com/markets",
+      "pubDate": "2026-09-12T14:03:46.955Z",
+      "description": "Markets regulator SEBI has proposed increasing minimum derivative contract sizes from ₹5 lakh to ₹15-20 lakh and restricting weekly index options expiries to one per exchange to protect retail capital.",
+      "sector": "IT",
+      "detectedStock": null,
+      "impactScore": 83,
+      "impactLevel": "HIGH"
+    },
+    {
+      "id": "all-12-1789243440248",
+      "title": "Infosys expands generative AI suite Topaz; signs AI governance partnership with global telco",
+      "sourceName": "The Hindu BusinessLine",
+      "link": "https://www.thehindubusinessline.com/info-tech",
+      "originalLink": "https://www.thehindubusinessline.com/info-tech",
+      "pubDate": "2026-09-12T13:13:46.955Z",
+      "description": "Infosys announced key enterprise wins for its generative AI platform Topaz, accelerating recurring revenue visibility in generative intelligence and automation advisory.",
+      "sector": "IT",
+      "detectedStock": {
+        "symbol": "INFY",
+        "name": "Infosys"
+      },
+      "impactScore": 62,
+      "impactLevel": "MODERATE"
+    },
+    {
+      "id": "all-13-1789243440248",
+      "title": "Mahindra & Mahindra auto sales jump 22% in February on strong Thar Roxx and Scorpio-N demand",
+      "sourceName": "Livemint",
+      "link": "https://www.livemint.com/auto",
+      "originalLink": "https://www.livemint.com/auto",
+      "pubDate": "2026-09-12T12:43:46.955Z",
+      "description": "M&M reported domestic SUV dispatch volume of 46,200 units, representing 22% year-on-year growth driven by continuous order bookings for premium 4x4 and mid-size SUV variants.",
+      "sector": "Auto",
+      "detectedStock": {
+        "symbol": "M&M",
+        "name": "Mahindra & Mahindra"
+      },
+      "impactScore": 60,
+      "impactLevel": "MODERATE"
+    },
+    {
+      "id": "all-14-1789243440248",
+      "title": "Cipla receives zero 483 observations from US FDA for its Pithampur manufacturing unit",
+      "sourceName": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/tags/cipla.html",
+      "originalLink": "https://www.moneycontrol.com/news/tags/cipla.html",
+      "pubDate": "2026-09-12T12:03:46.955Z",
+      "description": "Pharma heavyweight Cipla announced successful closure of US FDA cGMP inspection at its key Pithampur formulation plant with clean EIR and zero inspection observations.",
+      "sector": "Pharma",
+      "detectedStock": {
+        "symbol": "CIPLA",
+        "name": "Cipla"
+      },
+      "impactScore": 76,
+      "impactLevel": "MODERATE"
+    }
+  ],
+  "globalNews": [
+    {
+      "id": "global-15-1789243451108",
+      "title": "Is Toast Stock a Buy After a Record 9,500-Restaurant Quarter?",
+      "sourceName": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/toast-stock-buy-record-9-195000742.html",
+      "pubDate": "2026-09-12T19:50:00Z",
+      "description": "",
+      "region": "Global Macro 🌐",
+      "impactOnIndia": "Global macro trends shape foreign institutional risk premiums and export order books for Indian manufacturers.",
+      "globalImpactScore": 46,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-29-1789243451108",
+      "title": "US Federal Reserve signals calibrated rate trajectory as core inflation trends toward 2.4%",
+      "sourceName": "CNBC",
+      "link": "https://www.cnbc.com/markets/",
+      "pubDate": "2026-09-12T19:23:46.954Z",
+      "description": "Federal Reserve officials reiterated a data-dependent stance, indicating gradual rate easing if inflation metrics continue cooling without sharp labor market contractions.",
+      "region": "Central Banks & Fed 🏛️",
+      "impactOnIndia": "Lower US interest rates narrow the sovereign yield spread, preventing capital flight and fostering sustained FII portfolio inflows into Nifty large-caps.",
+      "globalImpactScore": 91,
+      "impactLevel": "HIGH",
+      "sentimentOnIndia": "Bullish for India"
+    },
+    {
+      "id": "global-30-1789243451108",
+      "title": "Brent crude holds near $104/bbl amid Middle East shipping transit caution and OPEC+ quota discipline",
+      "sourceName": "Reuters",
+      "link": "https://www.reuters.com/markets/commodities/",
+      "pubDate": "2026-09-12T18:48:46.954Z",
+      "description": "Crude benchmarks remained elevated following OPEC+ voluntary production cuts and strategic reserves restocking across OECD economies.",
+      "region": "Energy & Commodities 🛢️",
+      "impactOnIndia": "Elevated crude prices keep India’s oil import bill high, exerting mild margin pressure on domestic tyre, paint, and oil marketing companies (OMCs).",
+      "globalImpactScore": 84,
+      "impactLevel": "HIGH",
+      "sentimentOnIndia": "Bearish for India"
+    },
+    {
+      "id": "global-31-1789243451108",
+      "title": "Nasdaq and S&P 500 edge higher as enterprise generative AI software demand accelerates",
+      "sourceName": "Bloomberg",
+      "link": "https://www.bloomberg.com/markets",
+      "pubDate": "2026-09-12T18:13:46.954Z",
+      "description": "Wall Street indices gained ground led by cloud infrastructure and enterprise software leaders reporting robust annual recurring revenue pipelines.",
+      "region": "US & Wall Street 🇺🇸",
+      "impactOnIndia": "Positive sentiment across US tech spurs buying in Indian IT bellwethers (TCS, Infosys, HCL Tech) through ADR re-rating and improved discretionary spend visibility.",
+      "globalImpactScore": 78,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Bullish for India"
+    },
+    {
+      "id": "global-32-1789243451108",
+      "title": "China unveils targeted liquidity facilities to boost domestic consumption and credit growth",
+      "sourceName": "Financial Times",
+      "link": "https://www.ft.com/markets",
+      "pubDate": "2026-09-12T17:33:46.954Z",
+      "description": "The People’s Bank of China announced targeted funding programs to bolster manufacturing loan disbursements and property completion initiatives.",
+      "region": "Asia-Pacific 🌏",
+      "impactOnIndia": "Chinese demand revival supports international base metal prices (Steel, Aluminium), providing export price realization support for Tata Steel and Hindalco.",
+      "globalImpactScore": 72,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Bullish for India"
+    },
+    {
+      "id": "global-11-1789243451107",
+      "title": "Novo Nordisk (NVO)’s Pediatric Obesity Opportunity Faces a Bigger Test",
+      "sourceName": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pediatric-obesity-171917899.html",
+      "pubDate": "2026-09-12T17:19:17Z",
+      "description": "",
+      "region": "Global Macro 🌐",
+      "impactOnIndia": "Global macro trends shape foreign institutional risk premiums and export order books for Indian manufacturers.",
+      "globalImpactScore": 45,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-12-1789243451108",
+      "title": "A Tale of Two Dollars: Why Dollar General Outpaced Dollar Tree This Quarter",
+      "sourceName": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tale-two-dollars-why-dollar-170915358.html",
+      "pubDate": "2026-09-12T17:09:15Z",
+      "description": "",
+      "region": "Global Macro 🌐",
+      "impactOnIndia": "Global macro trends shape foreign institutional risk premiums and export order books for Indian manufacturers.",
+      "globalImpactScore": 66,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-13-1789243451108",
+      "title": "BioMarin Shares Jump 5% After Global Patent Settlement With Ascendis",
+      "sourceName": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/healthcare/articles/biomarin-shares-jump-5-global-170253036.html",
+      "pubDate": "2026-09-12T17:02:53Z",
+      "description": "",
+      "region": "Global Macro 🌐",
+      "impactOnIndia": "Global macro trends shape foreign institutional risk premiums and export order books for Indian manufacturers.",
+      "globalImpactScore": 48,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-14-1789243451108",
+      "title": "Teva’s (TEVA) $125 Million BioXcel Bid Offers Upside, but FDA and Auction Risks Remain",
+      "sourceName": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/healthcare/articles/teva-teva-125-million-bioxcel-165735518.html",
+      "pubDate": "2026-09-12T16:57:35Z",
+      "description": "",
+      "region": "Global Macro 🌐",
+      "impactOnIndia": "Global macro trends shape foreign institutional risk premiums and export order books for Indian manufacturers.",
+      "globalImpactScore": 46,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-16-1789243451108",
+      "title": "Jim Cramer Explains Why Merck (MRK) Is His Fantasy Defense Stock",
+      "sourceName": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/healthcare/articles/jim-cramer-explains-why-merck-164911925.html",
+      "pubDate": "2026-09-12T16:49:11Z",
+      "description": "",
+      "region": "Global Macro 🌐",
+      "impactOnIndia": "Global macro trends shape foreign institutional risk premiums and export order books for Indian manufacturers.",
+      "globalImpactScore": 48,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-17-1789243451108",
+      "title": "Ciena’s (CIEN) Backlog Just Hit $8.5B and Keeps Climbing",
+      "sourceName": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ciena-cien-backlog-just-hit-164644198.html",
+      "pubDate": "2026-09-12T16:46:44Z",
+      "description": "",
+      "region": "Global Macro 🌐",
+      "impactOnIndia": "Global macro trends shape foreign institutional risk premiums and export order books for Indian manufacturers.",
+      "globalImpactScore": 42,
+      "impactLevel": "LOW",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-18-1789243451108",
+      "title": "eGain’s (EGAN) Bold AI Pivot Just Won A Big Believer",
+      "sourceName": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/egain-egan-bold-ai-pivot-163723656.html",
+      "pubDate": "2026-09-12T16:37:23Z",
+      "description": "",
+      "region": "Global Macro 🌐",
+      "impactOnIndia": "Global macro trends shape foreign institutional risk premiums and export order books for Indian manufacturers.",
+      "globalImpactScore": 46,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-33-1789243451108",
+      "title": "European Central Bank maintains key deposit facility rate at 3.25% amid sluggish regional growth",
+      "sourceName": "CNBC",
+      "link": "https://www.cnbc.com/europe-markets/",
+      "pubDate": "2026-09-12T16:33:46.954Z",
+      "description": "ECB policymakers held interest rates steady, acknowledging persistent industrial weakness in Germany while services inflation remains sticky.",
+      "region": "Central Banks & Fed 🏛️",
+      "impactOnIndia": "Subdued European demand tests export order books for Indian auto ancillaries and textile exporters with heavy continental exposure.",
+      "globalImpactScore": 65,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-19-1789243451108",
+      "title": "BRP (DOO) Posts A Quarterly Loss And Raises Its Outlook Anyway",
+      "sourceName": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brp-doo-posts-quarterly-loss-163212953.html",
+      "pubDate": "2026-09-12T16:32:12Z",
+      "description": "",
+      "region": "Global Macro 🌐",
+      "impactOnIndia": "Global macro trends shape foreign institutional risk premiums and export order books for Indian manufacturers.",
+      "globalImpactScore": 44,
+      "impactLevel": "LOW",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-34-1789243451108",
+      "title": "US Dollar Index (DXY) stabilizes at 104.2 as Treasury yields consolidate after labor data",
+      "sourceName": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/currencies/",
+      "pubDate": "2026-09-12T15:33:46.954Z",
+      "description": "The greenback paused its weekly rally against a basket of six major currencies as bond markets digested recent non-farm payroll revisions.",
+      "region": "Central Banks & Fed 🏛️",
+      "impactOnIndia": "DXY stability eases immediate depreciation pressure on the Indian Rupee (USD/INR), reducing import bill volatility for key energy and electronic imports.",
+      "globalImpactScore": 68,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Bullish for India"
+    },
+    {
+      "id": "global-0-1789243451107",
+      "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+      "sourceName": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+      "pubDate": "Sat, 12 Sep 2026 12:49:15 GMT",
+      "description": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
+      "region": "US & Wall Street 🇺🇸",
+      "impactOnIndia": "Tech and growth momentum on Wall Street provides sentiment direction for Indian IT exporters (TCS, Infosys) and broad Nifty risk appetite.",
+      "globalImpactScore": 72,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-20-1789243451108",
+      "title": "China’s Foreign Exchange Reserves Continue to Climb - wsj.com",
+      "sourceName": "Global Financial",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xJYjQ5ODNZdUhoT2Fha0hEUWRrM3NHbXZ1SmNjMlM1RVhtbUlOTmkxa18yT2hGamx6OGItZS13SnJuVkY4RHA4a0tWZ0FpNXhDcjNfRFFEYm01THF3a0NONUl3MGNLOUh5NFJvY3NRMmhabHdaMzNmc1JwN2RlWFQteWRIRDF3NlMweUFmRlg?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 12:22:22 GMT",
+      "description": "China’s Foreign Exchange Reserves Continue to Climb  wsj.com",
+      "region": "Asia-Pacific 🌏",
+      "impactOnIndia": "Regional trading sentiment across Asian bourses sets the opening benchmark for Gift Nifty and early morning Dalal Street cash trade.",
+      "globalImpactScore": 48,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-22-1789243451108",
+      "title": "Wall Street week ahead: Federal Reserve decision on interest rates, retail sales update - Toronto Star",
+      "sourceName": "Global Financial",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdWpsWElReTc2Rnd3UnRiV0M5NUFHY25yTGdKWnR1QlpTZktmaU5Pd2FhY0ZzT04tTE1CdXVpLXB2bHJZTzZpOGNZekhCamdVX1hVNlJ4TXlzcTdUcE40SExpUzBHUWg2R2NLUlhNcFMwVDV4SEVib1YtRF9QeExjX0lyYmZ5T3Y2Q0dOeXdDTkpnRFA1REE1b3BGT3ZKczNNX2xoTTc0MW5WUHRkbkVHeFIzZ2dUMUNUYVJvdU5wX0VyMkFXRGdzSVlqdnBCLWxoY2RMV1dLdlEyTFpIaVhEb080SzR5cjRtbENwZkxWclB5b1JDMU1vcnRCMnBiRVE?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 08:00:49 GMT",
+      "description": "Wall Street week ahead: Federal Reserve decision on interest rates, retail sales update  Toronto Star",
+      "region": "Central Banks & Fed 🏛️",
+      "impactOnIndia": "US interest rate signals dictate foreign institutional capital (FII) flows into Indian equities and influence USD/INR stability.",
+      "globalImpactScore": 84,
+      "impactLevel": "HIGH",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-26-1789243451108",
+      "title": "U.S. stocks rebound as retreating oil prices offer Wall Street respite - bastillepost.com",
+      "sourceName": "Global Financial",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOTZTQlRYb2o5djdZWVdOZ29YM1RnLW81ZTJJVk9td2xQblhMWTlZdHhvdDhaYWdqd2ZUMU51UFpGMnNXUU5ZeUFkeFRac2J4MmZfR3ltYWMydVdRM0VBa0Vpc0ljZDNPVXJnczA4X2dINDhydGw5QUVUalhHUzV1V19vdzBBcTYzdUFOZUE3Ylp1eURrQTdIQ19jRHNsNW85cS1XQ3huczVlTmJ5ZFhGVF84OE5sblRnRDFuTFNR?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 03:04:00 GMT",
+      "description": "U.S. stocks rebound as retreating oil prices offer Wall Street respite  bastillepost.com",
+      "region": "Energy & Commodities 🛢️",
+      "impactOnIndia": "Fluctuations in international commodity prices directly impact India's import bill, current account balance, and downstream industrial margins.",
+      "globalImpactScore": 79,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-28-1789243451108",
+      "title": "Wall Street surges as US interest rate hike looks certain - The Nightly",
+      "sourceName": "Global Financial",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV0R5bDE5RXJ5Tng4dDI1MTdPRVhxOFJWVWJIQ01fUFRwS2p4cjA0Q1RpVjZMX01BOUJzQlhlcVlSek5yRnZjc2RzdWFrTXRaY0V6Z216Z1oySklEUFVzSG5LNUdueHlRTkNHOFhvRzNDb1pZbkRqcExScWxaZTU3d01iREpLUmJWSnN1NXBLbi1LSGFRV04wbnNHWFNlOU1KaHlZNUNDR2hfb1NRYkpReGQ4SmZSRjRJLW9KM2VPaEZDOFAwLUZfNVpYci02VEc5aTBaZVRoNDdXNVdzNFhNTw?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 21:42:47 GMT",
+      "description": "Wall Street surges as US interest rate hike looks certain  The Nightly",
+      "region": "Central Banks & Fed 🏛️",
+      "impactOnIndia": "US interest rate signals dictate foreign institutional capital (FII) flows into Indian equities and influence USD/INR stability.",
+      "globalImpactScore": 89,
+      "impactLevel": "HIGH",
+      "sentimentOnIndia": "Bearish for India"
+    },
+    {
+      "id": "global-10-1789243451107",
+      "title": "172-year-old bank sees 400% upside for 'federal bank' token",
+      "sourceName": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/172-old-bank-sees-400-173349444.html",
+      "pubDate": "2026-09-11T17:33:49Z",
+      "description": "",
+      "region": "Central Banks & Fed 🏛️",
+      "impactOnIndia": "US interest rate signals dictate foreign institutional capital (FII) flows into Indian equities and influence USD/INR stability.",
+      "globalImpactScore": 85,
+      "impactLevel": "HIGH",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-23-1789243451108",
+      "title": "Fed, Bowman sued over capital-requirements process - Banking Dive",
+      "sourceName": "Global Financial",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNnd3YmdHS2ZZMDRyRC11MlczZVhZWG1GZ2ZWcjMxY08yOEVrXzl0M1FMQVNfSUpMajlwdVNZUF9pdFpfY0VsNmpsRS1UenFjZUgxS2tIQ0YyakVIU0FQVkJxTlNlaFlCcXZnX012U3ZxMDlvZXZTam9zYkxuNVNqZmRDV2FwemxNZEFMb3B2eWtvOVNwdkhaczJjYk8waDdfVHlTcHlDWmYtQXVmaGlmWXNYR3pmdHp1TUoyWGI2eUhNNWRva0EyRFBQMUxxemxk?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 16:43:54 GMT",
+      "description": "Fed, Bowman sued over capital-requirements process  Banking Dive",
+      "region": "Central Banks & Fed 🏛️",
+      "impactOnIndia": "US interest rate signals dictate foreign institutional capital (FII) flows into Indian equities and influence USD/INR stability.",
+      "globalImpactScore": 89,
+      "impactLevel": "HIGH",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-3-1789243451107",
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "sourceName": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "pubDate": "Fri, 11 Sep 2026 16:06:31 GMT",
+      "description": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
+      "region": "US & Wall Street 🇺🇸",
+      "impactOnIndia": "Tech and growth momentum on Wall Street provides sentiment direction for Indian IT exporters (TCS, Infosys) and broad Nifty risk appetite.",
+      "globalImpactScore": 70,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-25-1789243451108",
+      "title": "Week Ahead for FX, Bonds: All Eyes on Fed Rate Decision - wsj.com",
+      "sourceName": "Global Financial",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT2FWUnZ2OXJzNkR6VEpTYXhoMDZ2Mm1VYkZ3N1NCT051SHk2S1FxbnNIcGtBam1pNGN5M2lCazQwMFV5UHBNQUVERTVyTHd5VmFHaXBmRWdRVG9IY0gzWWNkT1Q5cXl3VUw2eVFkeVc2ZVA2R1JTcnA0NE5BU1BjUWI2dTVTMXQ0cURjTGw0N0t3cERhdnNfMHlvbW80MGZ5aVhRRWFZX3Fadw?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 15:49:00 GMT",
+      "description": "Week Ahead for FX, Bonds: All Eyes on Fed Rate Decision  wsj.com",
+      "region": "Central Banks & Fed 🏛️",
+      "impactOnIndia": "US interest rate signals dictate foreign institutional capital (FII) flows into Indian equities and influence USD/INR stability.",
+      "globalImpactScore": 87,
+      "impactLevel": "HIGH",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-2-1789243451107",
+      "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
+      "sourceName": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
+      "pubDate": "Fri, 11 Sep 2026 14:30:29 GMT",
+      "description": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
+      "region": "Asia-Pacific 🌏",
+      "impactOnIndia": "Regional trading sentiment across Asian bourses sets the opening benchmark for Gift Nifty and early morning Dalal Street cash trade.",
+      "globalImpactScore": 48,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-1-1789243451107",
+      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+      "sourceName": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+      "pubDate": "Fri, 11 Sep 2026 06:02:40 GMT",
+      "description": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
+      "region": "Global Macro 🌐",
+      "impactOnIndia": "Global macro trends shape foreign institutional risk premiums and export order books for Indian manufacturers.",
+      "globalImpactScore": 43,
+      "impactLevel": "LOW",
+      "sentimentOnIndia": "Bullish for India"
+    },
+    {
+      "id": "global-24-1789243451108",
+      "title": "Better Markets’ Lawsuit Against the Federal Reserve and Vice Chair Bowman for Corruption - Better Markets",
+      "sourceName": "Global Financial",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGJ4dzlZdXpBVEtjTGdtWVpvYlV6dTJrY2s0ZWtMWlJhTzZKbUg4SmpLWl9HLVJFZVAyd0NOblJJbXdEbUM4VVBfcVcwa2tiUkVLbXE5UVB2eTNVUVlVNk9OQ1loTEhWZ1U0dnlSOWNFQ2gyc09EX3VGNGt3RzFGNHRzS3ZERXpaTUxYVFZ6RExJMnpzTlJOOVp6Q0t0WEtpRTNCRlQxSXlhMThKVGJyZnd1UTdiVTNuYmxDS002MFA?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 22:13:12 GMT",
+      "description": "Better Markets’ Lawsuit Against the Federal Reserve and Vice Chair Bowman for Corruption  Better Markets",
+      "region": "Central Banks & Fed 🏛️",
+      "impactOnIndia": "US interest rate signals dictate foreign institutional capital (FII) flows into Indian equities and influence USD/INR stability.",
+      "globalImpactScore": 89,
+      "impactLevel": "HIGH",
+      "sentimentOnIndia": "Bullish for India"
+    },
+    {
+      "id": "global-21-1789243451108",
+      "title": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul - Reuters",
+      "sourceName": "Global Financial",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3hQU3Y4VWFmRkpaUll6bmx3MzFKYlFzS0x6VjNsc1ZjdjZCUDhaYVdxdXRFSUd5bGFScjdZWHJLaGx6ZDdROUd1SnpzbE5NaWxpa3d6OGJqX000QThqOGVxUXZrdnE2djFJSHp6Z1YzTVlIUzNHcjliMmVfU0Ixb21jNmRudUwxeWItZTlSUDhpaTRNbmRMbndpZWVEOW1TSWdvR2ZxYXZVQXc0SFllLWI3UlM0Z2k0XzcxRWpFR0E3UUo1bjczRXNR?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 19:20:55 GMT",
+      "description": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul  Reuters",
+      "region": "Central Banks & Fed 🏛️",
+      "impactOnIndia": "US interest rate signals dictate foreign institutional capital (FII) flows into Indian equities and influence USD/INR stability.",
+      "globalImpactScore": 86,
+      "impactLevel": "HIGH",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-4-1789243451107",
+      "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
+      "sourceName": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
+      "pubDate": "Thu, 10 Sep 2026 14:00:11 GMT",
+      "description": "Its the latest move by the prediction market company to diversify its assets users can trade.",
+      "region": "Energy & Commodities 🛢️",
+      "impactOnIndia": "Fluctuations in international commodity prices directly impact India's import bill, current account balance, and downstream industrial margins.",
+      "globalImpactScore": 49,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-27-1789243451108",
+      "title": "How will the decline in Federal Reserve transparency reshape markets and the U.S. economy? - Moomoo",
+      "sourceName": "Global Financial",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUV9qWEt3RGsxd2RBVXhfclI5RmR4TUVtZEJkLS1qNWJMS3k5SE85eldTb0w1RnVCUUdUdUxmclBPTzlQUXI4dk9TSXVRZkFRZnhMQkRzemdZZGVwYU1GSmtIeHFydEpFUEZ0WVZSNlhpbUxuZXlWN2hxMnBkVnFhQ3VoZ2MxR1B5ZFA1b1E0YWpNRGJkYmdkUlM4aDlISWpEZTlqNmtDdFhaa21jdUNj?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 06:54:54 GMT",
+      "description": "How will the decline in Federal Reserve transparency reshape markets and the U.S. economy?  Moomoo",
+      "region": "Central Banks & Fed 🏛️",
+      "impactOnIndia": "US interest rate signals dictate foreign institutional capital (FII) flows into Indian equities and influence USD/INR stability.",
+      "globalImpactScore": 86,
+      "impactLevel": "HIGH",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-5-1789243451107",
+      "title": "Ant International partners with Visa, Mastercard on developing AI payments",
+      "sourceName": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
+      "pubDate": "Thu, 10 Sep 2026 01:53:50 GMT",
+      "description": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.",
+      "region": "Global Macro 🌐",
+      "impactOnIndia": "Global macro trends shape foreign institutional risk premiums and export order books for Indian manufacturers.",
+      "globalImpactScore": 42,
+      "impactLevel": "LOW",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-6-1789243451107",
+      "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
+      "sourceName": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
+      "pubDate": "Wed, 09 Sep 2026 06:26:59 GMT",
+      "description": "The investors will subscribe to new shares in three tranches and collectively own about 5.54% of the airport operator after the final tranche.",
+      "region": "Global Macro 🌐",
+      "impactOnIndia": "Global macro trends shape foreign institutional risk premiums and export order books for Indian manufacturers.",
+      "globalImpactScore": 48,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-7-1789243451107",
+      "title": "China's EV makers shift gears to focus on humanoids as car market slows",
+      "sourceName": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
+      "pubDate": "Wed, 09 Sep 2026 04:12:51 GMT",
+      "description": "As Chinese electric car sales slow and share prices tumble, several of the automakers are ramping up humanoid robotics development.",
+      "region": "US & Wall Street 🇺🇸",
+      "impactOnIndia": "Tech and growth momentum on Wall Street provides sentiment direction for Indian IT exporters (TCS, Infosys) and broad Nifty risk appetite.",
+      "globalImpactScore": 41,
+      "impactLevel": "LOW",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-8-1789243451107",
+      "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
+      "sourceName": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
+      "pubDate": "Tue, 08 Sep 2026 21:59:13 GMT",
+      "description": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
+      "region": "US & Wall Street 🇺🇸",
+      "impactOnIndia": "Tech and growth momentum on Wall Street provides sentiment direction for Indian IT exporters (TCS, Infosys) and broad Nifty risk appetite.",
+      "globalImpactScore": 68,
+      "impactLevel": "MODERATE",
+      "sentimentOnIndia": "Neutral / Volatile"
+    },
+    {
+      "id": "global-9-1789243451107",
+      "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
+      "sourceName": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
+      "pubDate": "Tue, 08 Sep 2026 11:30:01 GMT",
+      "description": "Visa is doubling down on blockchain-powered financial services with a new program to help issuers of stablecoin-linked cards access loans.",
+      "region": "US & Wall Street 🇺🇸",
+      "impactOnIndia": "Tech and growth momentum on Wall Street provides sentiment direction for Indian IT exporters (TCS, Infosys) and broad Nifty risk appetite.",
+      "globalImpactScore": 42,
+      "impactLevel": "LOW",
+      "sentimentOnIndia": "Neutral / Volatile"
+    }
+  ],
+  "sectors": [
+    {
+      "id": "Pharma",
+      "name": "Pharma",
+      "fullName": "Healthcare & Drugs",
+      "icon": "Pill",
+      "color": "#EC4899",
+      "newsCount": 2,
+      "avgImpactScore": 91,
+      "highImpactCount": 2,
+      "severityScore": 94,
+      "stormLevel": "Eye of the Storm 🔥",
+      "stormBadgeColor": "rose",
+      "stormIcon": "Flame",
+      "topHeadline": "Sun Pharma receives US FDA approval for novel dermatological formulation with 180-day exclusivity",
+      "rank": 1
+    },
+    {
+      "id": "BFSI",
+      "name": "BFSI",
+      "fullName": "Banking & Financial Services",
+      "icon": "Landmark",
+      "color": "#3B82F6",
+      "newsCount": 2,
+      "avgImpactScore": 82,
+      "highImpactCount": 2,
+      "severityScore": 89,
+      "stormLevel": "Eye of the Storm 🔥",
+      "stormBadgeColor": "rose",
+      "stormIcon": "Flame",
+      "topHeadline": "RBI leaves repo rate unchanged at 6.50%; shifts monetary policy stance to neutral",
+      "rank": 2
+    },
+    {
+      "id": "IT",
+      "name": "IT",
+      "fullName": "Information Technology",
+      "icon": "Cpu",
+      "color": "#8B5CF6",
+      "newsCount": 3,
+      "avgImpactScore": 76,
+      "highImpactCount": 1,
+      "severityScore": 74,
+      "stormLevel": "Elevated Turbulence ⚡",
+      "stormBadgeColor": "amber",
+      "stormIcon": "Zap",
+      "topHeadline": "SEBI issues consultation paper to curb derivative frenzy; proposes higher contract sizes",
+      "rank": 3
+    },
+    {
+      "id": "Auto",
+      "name": "Auto",
+      "fullName": "Automobiles & Ancillaries",
+      "icon": "Car",
+      "color": "#F97316",
+      "newsCount": 2,
+      "avgImpactScore": 78,
+      "highImpactCount": 1,
+      "severityScore": 69,
+      "stormLevel": "Elevated Turbulence ⚡",
+      "stormBadgeColor": "amber",
+      "stormIcon": "Zap",
+      "topHeadline": "Tata Motors commercial vehicle demerger gets final NCLT approval; listing expected in Q3",
+      "rank": 4
+    },
+    {
+      "id": "Energy",
+      "name": "Energy",
+      "fullName": "Oil, Gas & Power",
+      "icon": "Zap",
+      "color": "#EAB308",
+      "newsCount": 1,
+      "avgImpactScore": 80,
+      "highImpactCount": 1,
+      "severityScore": 64,
+      "stormLevel": "Elevated Turbulence ⚡",
+      "stormBadgeColor": "amber",
+      "stormIcon": "Zap",
+      "topHeadline": "Reliance Industries signs $1.5 billion green hydrogen electrolyser pact with European consortium",
+      "rank": 5
+    },
+    {
+      "id": "Realty",
+      "name": "Realty",
+      "fullName": "Real Estate & Infrastructure",
+      "icon": "Building2",
+      "color": "#06B6D4",
+      "newsCount": 1,
+      "avgImpactScore": 80,
+      "highImpactCount": 1,
+      "severityScore": 64,
+      "stormLevel": "Elevated Turbulence ⚡",
+      "stormBadgeColor": "amber",
+      "stormIcon": "Zap",
+      "topHeadline": "DLF acquires 32-acre prime land parcel in Gurugram for ₹1,850 crore luxury housing project",
+      "rank": 6
+    },
+    {
+      "id": "Metals",
+      "name": "Metals",
+      "fullName": "Steel & Mining",
+      "icon": "Layers",
+      "color": "#64748B",
+      "newsCount": 1,
+      "avgImpactScore": 73,
+      "highImpactCount": 0,
+      "severityScore": 43,
+      "stormLevel": "Moderate News Flow 🌊",
+      "stormBadgeColor": "cyan",
+      "stormIcon": "Activity",
+      "topHeadline": "Government considers 12% safeguard duty on Chinese steel imports to protect domestic mills",
+      "rank": 7
+    },
+    {
+      "id": "FMCG",
+      "name": "FMCG",
+      "fullName": "Consumer Goods",
+      "icon": "ShoppingBag",
+      "color": "#10B981",
+      "newsCount": 1,
+      "avgImpactScore": 71,
+      "highImpactCount": 0,
+      "severityScore": 42,
+      "stormLevel": "Moderate News Flow 🌊",
+      "stormBadgeColor": "cyan",
+      "stormIcon": "Activity",
+      "topHeadline": "ITC FMCG business delivers margin expansion as rural demand accelerates in Q3",
+      "rank": 8
+    },
+    {
+      "id": "Macro",
+      "name": "Macro",
+      "fullName": "Economy & Government Policy",
+      "icon": "Globe",
+      "color": "#6366F1",
+      "newsCount": 0,
+      "avgImpactScore": 35,
+      "highImpactCount": 0,
+      "severityScore": 18,
+      "stormLevel": "Calm Waters 🍃",
+      "stormBadgeColor": "emerald",
+      "stormIcon": "Shield",
+      "topHeadline": "No active news storm detected in Macro",
+      "rank": 9
+    }
+  ],
+  "macro": [
+    {
+      "id": "us_yields_rupee",
+      "title": "USD/INR & US 10Y Yield Trajectory",
+      "metric": "USD/INR ₹95.54 | US 10Y 4.97%",
+      "change": "USD/INR +0.43 (+0.45%)",
+      "status": "RUPEE PRESSURE",
+      "statusType": "caution",
+      "icon": "TrendingUp",
+      "summary": "USD/INR trades at ₹95.54 while US 10Y Treasury yields stand at 4.97%. Elevated foreign yields increase emerging market risk premiums and require RBI foreign exchange market monitoring."
+    },
+    {
+      "id": "crude_oil",
+      "title": "Brent Crude Oil Benchmark",
+      "metric": "$104.61/bbl",
+      "change": "-3.02 (-2.81%)",
+      "status": "BULLISH FOR INDIA",
+      "statusType": "positive",
+      "icon": "Fuel",
+      "summary": "Brent crude eases 2.81% to $104.61/bbl, providing fiscal relief for India's oil import bill and supporting refining margins for OMCs (IOC, BPCL, HPCL)."
+    },
+    {
+      "id": "institutional_liquidity",
+      "title": "FII vs DII Institutional Balance",
+      "metric": "DII +₹2,890 Cr | FII -₹2,140 Cr",
+      "change": "Net +₹750 Cr Absorbed",
+      "status": "DII CUSHION ACTIVE",
+      "statusType": "positive",
+      "icon": "Landmark",
+      "summary": "Domestic Institutional Investors (DIIs) continue robust equity accumulation, deploying mutual fund SIP inflows to fully absorb selective Foreign Institutional Investor (FII) rebalancing."
+    }
+  ],
+  "breadth": {
+    "bullishPct": 46,
+    "bearishPct": 23,
+    "volatilePct": 31,
+    "sentimentScore": 23,
+    "sentimentLabel": "Mild Bullish Bias 🟢",
+    "badgeColor": "emerald",
+    "bullishCount": 6,
+    "bearishCount": 3,
+    "volatileCount": 4,
+    "totalCount": 13,
+    "accumulationCount": 0,
+    "distributionCount": 3
+  },
+  "calendar": [
+    {
+      "id": "cal-1",
+      "date": "Sep 15, 2026",
+      "daysAway": "2 days away",
+      "category": "EARNINGS",
+      "categoryLabel": "Earnings 📊",
+      "categoryColor": "blue",
+      "company": "TCS",
+      "title": "TCS Board Meeting for Q2 Financial Results & 2nd Interim Dividend",
+      "marketImpact": "HIGH",
+      "impactScore": 88,
+      "description": "Tata Consultancy Services board meets to approve standalone and consolidated audited quarterly financial results and consider second interim dividend declaration."
+    },
+    {
+      "id": "cal-2",
+      "date": "Sep 16, 2026",
+      "daysAway": "3 days away",
+      "category": "CENTRAL_BANKS",
+      "categoryLabel": "Central Banks 🏛️",
+      "categoryColor": "indigo",
+      "company": "US FED",
+      "title": "US Federal Reserve FOMC Interest Rate Decision & Powell Speech",
+      "marketImpact": "HIGH",
+      "impactScore": 94,
+      "description": "Federal Open Market Committee concludes 2-day policy meeting; market anticipates interest rate decision guidance affecting global liquidity and emerging market FII flows."
+    },
+    {
+      "id": "cal-3",
+      "date": "Sep 18, 2026",
+      "daysAway": "5 days away",
+      "category": "CORPORATE_ACTION",
+      "categoryLabel": "Corporate Action 📑",
+      "categoryColor": "amber",
+      "company": "TATAMOTORS",
+      "title": "Tata Motors Commercial Vehicles Demerger Scheme Record Date",
+      "marketImpact": "HIGH",
+      "impactScore": 89,
+      "description": "Record date for determination of eligible shareholders entitled to receive equity shares of the newly carved-out commercial vehicles standalone listed champion."
+    },
+    {
+      "id": "cal-4",
+      "date": "Sep 21, 2026",
+      "daysAway": "8 days away",
+      "category": "REGULATORY",
+      "categoryLabel": "Regulatory ⚖️",
+      "categoryColor": "rose",
+      "company": "SEBI",
+      "title": "SEBI Closing Auction Session (CAS) Public Consultation Window Closes",
+      "marketImpact": "MODERATE",
+      "impactScore": 76,
+      "description": "Deadline for institutional market participants and brokers to submit formal feedback on proposed changes to derivative expiry settlements and cash market closing auctions."
+    },
+    {
+      "id": "cal-5",
+      "date": "Sep 23, 2026",
+      "daysAway": "10 days away",
+      "category": "EARNINGS",
+      "categoryLabel": "Earnings 📊",
+      "categoryColor": "blue",
+      "company": "INFY",
+      "title": "Infosys Q2 Earnings Release & Large Deal TCV Guidance",
+      "marketImpact": "HIGH",
+      "impactScore": 86,
+      "description": "Infosys announces second quarter financial results with management concall on constant currency revenue growth and generative AI enterprise adoption."
+    },
+    {
+      "id": "cal-6",
+      "date": "Sep 25, 2026",
+      "daysAway": "12 days away",
+      "category": "CENTRAL_BANKS",
+      "categoryLabel": "Central Banks 🏛️",
+      "categoryColor": "indigo",
+      "company": "RBI",
+      "title": "RBI Monetary Policy Committee (MPC) Bi-Monthly Policy Meeting Begins",
+      "marketImpact": "HIGH",
+      "impactScore": 92,
+      "description": "Reserve Bank of India 3-day MPC meeting commences under Governor leadership to review retail CPI inflation, GDP growth trajectory, and policy repo rate stance."
+    },
+    {
+      "id": "cal-7",
+      "date": "Sep 28, 2026",
+      "daysAway": "15 days away",
+      "category": "CORPORATE_ACTION",
+      "categoryLabel": "Corporate Action 📑",
+      "categoryColor": "amber",
+      "company": "RELIANCE",
+      "title": "Reliance Industries New Energy Gigafactory Commissioning Update",
+      "marketImpact": "MODERATE",
+      "impactScore": 78,
+      "description": "Investor presentation on commercial trial runs for solar PV module manufacturing and green hydrogen electrolyser production at Jamnagar complex."
+    }
+  ],
+  "briefing": {
+    "type": "MORNING_BELL",
+    "badge": "PRE-MARKET BRIEFING",
+    "timeLabel": "8:30 AM Dalal Street Setup",
+    "title": "Dalal Street Pre-Market Morning Bell",
+    "subtitle": "Overnight global market cues, Gift Nifty benchmark opening setup & top stocks to trade",
+    "openingTone": "Gift Nifty indicates a resilient opening setup as domestic mutual fund absorption buffers selective FII rebalancing.",
+    "macroTakeaway": "USD/INR & US 10Y Yield Trajectory: USD/INR ₹95.54 | US 10Y 4.97% (RUPEE PRESSURE) · Brent Crude Oil Benchmark: $104.61/bbl (BULLISH FOR INDIA) · FII vs DII Institutional Balance: DII +₹2,890 Cr | FII -₹2,140 Cr (DII CUSHION ACTIVE)",
+    "topSectorInFocus": {
+      "name": "Pharma",
+      "rank": 1,
+      "severityScore": 94,
+      "headline": "Sun Pharma receives US FDA approval for novel dermatological formulation with 180-day exclusivity"
+    },
+    "topStocksToWatch": [
+      {
+        "symbol": "SUNPHARMA",
+        "name": "Sun Pharma",
+        "impactScore": 98,
+        "bias": "Bullish",
+        "eventBrief": "Sun Pharmaceutical Industries announced that the US FDA has granted approval for its new drug application (NDA) with 180-day generic exclusivity in the US market, expanding it...",
+        "marketImplication": "Expected to provide near-term valuation support for Sun Pharma, expanding trading multiples and attracting institutional accumulation.",
+        "smartMoney": "Institutional Distribution",
+        "volumeRatio": 2.47
+      },
+      {
+        "symbol": "TATAMOTORS",
+        "name": "Tata Motors",
+        "impactScore": 87,
+        "bias": "Bullish",
+        "eventBrief": "Tata Motors has received final approval from the National Company Law Tribunal (NCLT) for the demerger of its passenger vehicles and commercial vehicles businesses into two st...",
+        "marketImplication": "Expected to provide near-term valuation support for Tata Motors, expanding trading multiples and attracting institutional accumulation.",
+        "smartMoney": "Institutional Distribution",
+        "volumeRatio": 2.01
+      },
+      {
+        "symbol": "HDFCBANK",
+        "name": "HDFC Bank",
+        "impactScore": 80,
+        "bias": "Bullish",
+        "eventBrief": "India's largest private lender HDFC Bank beat Dalal Street estimates with robust double-digit credit growth and stabilizing net interest margins following post-merger branch d...",
+        "marketImplication": "Expected to provide near-term valuation support for HDFC Bank, expanding trading multiples and attracting institutional accumulation.",
+        "smartMoney": "Normal Activity",
+        "volumeRatio": 1.16
+      }
+    ],
+    "sentimentSummary": "46% Bullish Sentiment across 13 monitored Dalal Street stories.",
+    "smartMoneyRadar": "8 stocks in Institutional Accumulation vs 3 in Distribution.",
+    "actionPlan": [
+      "Monitor opening gap and check 15-minute volume confirmation before chasing breakout headlines.",
+      "Focus momentum strategies on Pharma as it leads today's sector storm index.",
+      "Track Brent crude price movements and USD/INR for foreign institutional liquidity continuation."
+    ]
+  }
+}

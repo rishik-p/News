@@ -1,0 +1,330 @@
+[
+  {
+    "symbol": "RELIANCE",
+    "nseTicker": "RELIANCE.NS",
+    "name": "Reliance Industries",
+    "aliases": ["Reliance", "RIL", "Jio", "Reliance Retail", "Mukesh Ambani"],
+    "sector": "Energy",
+    "benchmark20dAvgVol": 6200000
+  },
+  {
+    "symbol": "TCS",
+    "nseTicker": "TCS.NS",
+    "name": "Tata Consultancy Services",
+    "aliases": ["TCS", "Tata Consultancy"],
+    "sector": "IT",
+    "benchmark20dAvgVol": 2100000
+  },
+  {
+    "symbol": "HDFCBANK",
+    "nseTicker": "HDFCBANK.NS",
+    "name": "HDFC Bank",
+    "aliases": ["HDFC Bank", "HDFC", "HDFCB"],
+    "sector": "BFSI",
+    "benchmark20dAvgVol": 18500000
+  },
+  {
+    "symbol": "INFY",
+    "nseTicker": "INFY.NS",
+    "name": "Infosys",
+    "aliases": ["Infosys", "Infy"],
+    "sector": "IT",
+    "benchmark20dAvgVol": 5400000
+  },
+  {
+    "symbol": "ICICIBANK",
+    "nseTicker": "ICICIBANK.NS",
+    "name": "ICICI Bank",
+    "aliases": ["ICICI Bank", "ICICI"],
+    "sector": "BFSI",
+    "benchmark20dAvgVol": 12800000
+  },
+  {
+    "symbol": "SBIN",
+    "nseTicker": "SBIN.NS",
+    "name": "State Bank of India",
+    "aliases": ["SBI", "State Bank of India", "SBIN"],
+    "sector": "BFSI",
+    "benchmark20dAvgVol": 15200000
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "nseTicker": "BHARTIARTL.NS",
+    "name": "Bharti Airtel",
+    "aliases": ["Airtel", "Bharti Airtel", "Bharti"],
+    "sector": "IT",
+    "benchmark20dAvgVol": 4900000
+  },
+  {
+    "symbol": "ITC",
+    "nseTicker": "ITC.NS",
+    "name": "ITC Ltd",
+    "aliases": ["ITC", "ITC Hotels"],
+    "sector": "FMCG",
+    "benchmark20dAvgVol": 11000000
+  },
+  {
+    "symbol": "LT",
+    "nseTicker": "LT.NS",
+    "name": "Larsen & Toubro",
+    "aliases": ["Larsen & Toubro", "L&T", "Larsen"],
+    "sector": "Realty",
+    "benchmark20dAvgVol": 2400000
+  },
+  {
+    "symbol": "TATAMOTORS",
+    "nseTicker": "TATAMOTORS.NS",
+    "name": "Tata Motors",
+    "aliases": ["Tata Motors", "TaMo", "JLR", "Jaguar Land Rover"],
+    "sector": "Auto",
+    "benchmark20dAvgVol": 9400000
+  },
+  {
+    "symbol": "MARUTI",
+    "nseTicker": "MARUTI.NS",
+    "name": "Maruti Suzuki",
+    "aliases": ["Maruti Suzuki", "Maruti"],
+    "sector": "Auto",
+    "benchmark20dAvgVol": 580000
+  },
+  {
+    "symbol": "M&M",
+    "nseTicker": "M&M.NS",
+    "name": "Mahindra & Mahindra",
+    "aliases": ["Mahindra & Mahindra", "Mahindra", "M&M"],
+    "sector": "Auto",
+    "benchmark20dAvgVol": 3100000
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "nseTicker": "BAJAJ-AUTO.NS",
+    "name": "Bajaj Auto",
+    "aliases": ["Bajaj Auto", "Bajaj 2-Wheeler"],
+    "sector": "Auto",
+    "benchmark20dAvgVol": 450000
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "nseTicker": "SUNPHARMA.NS",
+    "name": "Sun Pharma",
+    "aliases": ["Sun Pharmaceutical", "Sun Pharma", "Sun Pharmaceuticals"],
+    "sector": "Pharma",
+    "benchmark20dAvgVol": 2300000
+  },
+  {
+    "symbol": "DRREDDY",
+    "nseTicker": "DRREDDY.NS",
+    "name": "Dr Reddy's Laboratories",
+    "aliases": ["Dr Reddy's", "Dr Reddys", "Dr Reddy"],
+    "sector": "Pharma",
+    "benchmark20dAvgVol": 1100000
+  },
+  {
+    "symbol": "CIPLA",
+    "nseTicker": "CIPLA.NS",
+    "name": "Cipla",
+    "aliases": ["Cipla", "Cipla Ltd"],
+    "sector": "Pharma",
+    "benchmark20dAvgVol": 1650000
+  },
+  {
+    "symbol": "DIVISLAB",
+    "nseTicker": "DIVISLAB.NS",
+    "name": "Divi's Laboratories",
+    "aliases": ["Divi's", "Divis Lab", "Divis Laboratories"],
+    "sector": "Pharma",
+    "benchmark20dAvgVol": 520000
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "nseTicker": "APOLLOHOSP.NS",
+    "name": "Apollo Hospitals",
+    "aliases": ["Apollo Hospitals", "Apollo Hospital"],
+    "sector": "Pharma",
+    "benchmark20dAvgVol": 720000
+  },
+  {
+    "symbol": "TATASTEEL",
+    "nseTicker": "TATASTEEL.NS",
+    "name": "Tata Steel",
+    "aliases": ["Tata Steel"],
+    "sector": "Metals",
+    "benchmark20dAvgVol": 38000000
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "nseTicker": "JSWSTEEL.NS",
+    "name": "JSW Steel",
+    "aliases": ["JSW Steel", "JSW"],
+    "sector": "Metals",
+    "benchmark20dAvgVol": 2600000
+  },
+  {
+    "symbol": "HINDALCO",
+    "nseTicker": "HINDALCO.NS",
+    "name": "Hindalco Industries",
+    "aliases": ["Hindalco", "Novelis"],
+    "sector": "Metals",
+    "benchmark20dAvgVol": 6900000
+  },
+  {
+    "symbol": "VEDL",
+    "nseTicker": "VEDL.NS",
+    "name": "Vedanta Ltd",
+    "aliases": ["Vedanta", "Anil Agarwal"],
+    "sector": "Metals",
+    "benchmark20dAvgVol": 14500000
+  },
+  {
+    "symbol": "NTPC",
+    "nseTicker": "NTPC.NS",
+    "name": "NTPC Ltd",
+    "aliases": ["NTPC", "NTPC Green"],
+    "sector": "Energy",
+    "benchmark20dAvgVol": 11200000
+  },
+  {
+    "symbol": "POWERGRID",
+    "nseTicker": "POWERGRID.NS",
+    "name": "Power Grid Corporation",
+    "aliases": ["Power Grid", "PowerGrid", "PGCIL"],
+    "sector": "Energy",
+    "benchmark20dAvgVol": 8900000
+  },
+  {
+    "symbol": "ONGC",
+    "nseTicker": "ONGC.NS",
+    "name": "Oil and Natural Gas Corp",
+    "aliases": ["ONGC", "Oil and Natural Gas Corporation"],
+    "sector": "Energy",
+    "benchmark20dAvgVol": 16800000
+  },
+  {
+    "symbol": "BPCL",
+    "nseTicker": "BPCL.NS",
+    "name": "Bharat Petroleum",
+    "aliases": ["BPCL", "Bharat Petroleum"],
+    "sector": "Energy",
+    "benchmark20dAvgVol": 7100000
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "nseTicker": "HINDUNILVR.NS",
+    "name": "Hindustan Unilever",
+    "aliases": ["HUL", "Hindustan Unilever"],
+    "sector": "FMCG",
+    "benchmark20dAvgVol": 1950000
+  },
+  {
+    "symbol": "NESTLEIND",
+    "nseTicker": "NESTLEIND.NS",
+    "name": "Nestle India",
+    "aliases": ["Nestle", "Nestle India", "Maggi"],
+    "sector": "FMCG",
+    "benchmark20dAvgVol": 650000
+  },
+  {
+    "symbol": "BRITANNIA",
+    "nseTicker": "BRITANNIA.NS",
+    "name": "Britannia Industries",
+    "aliases": ["Britannia"],
+    "sector": "FMCG",
+    "benchmark20dAvgVol": 390000
+  },
+  {
+    "symbol": "TATACONSUM",
+    "nseTicker": "TATACONSUM.NS",
+    "name": "Tata Consumer Products",
+    "aliases": ["Tata Consumer", "Tata Tea", "Tata Salt"],
+    "sector": "FMCG",
+    "benchmark20dAvgVol": 1750000
+  },
+  {
+    "symbol": "DLF",
+    "nseTicker": "DLF.NS",
+    "name": "DLF Ltd",
+    "aliases": ["DLF", "DLF Cyber City"],
+    "sector": "Realty",
+    "benchmark20dAvgVol": 4200000
+  },
+  {
+    "symbol": "GODREJPROP",
+    "nseTicker": "GODREJPROP.NS",
+    "name": "Godrej Properties",
+    "aliases": ["Godrej Properties", "Godrej Prop"],
+    "sector": "Realty",
+    "benchmark20dAvgVol": 1200000
+  },
+  {
+    "symbol": "LODHA",
+    "nseTicker": "LODHA.NS",
+    "name": "Macrotech Developers (Lodha)",
+    "aliases": ["Lodha", "Macrotech Developers"],
+    "sector": "Realty",
+    "benchmark20dAvgVol": 1400000
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "nseTicker": "KOTAKBANK.NS",
+    "name": "Kotak Mahindra Bank",
+    "aliases": ["Kotak Bank", "Kotak Mahindra", "Kotak"],
+    "sector": "BFSI",
+    "benchmark20dAvgVol": 3800000
+  },
+  {
+    "symbol": "AXISBANK",
+    "nseTicker": "AXISBANK.NS",
+    "name": "Axis Bank",
+    "aliases": ["Axis Bank", "Axis"],
+    "sector": "BFSI",
+    "benchmark20dAvgVol": 7900000
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "nseTicker": "BAJFINANCE.NS",
+    "name": "Bajaj Finance",
+    "aliases": ["Bajaj Finance", "BajFin"],
+    "sector": "BFSI",
+    "benchmark20dAvgVol": 1350000
+  },
+  {
+    "symbol": "WIPRO",
+    "nseTicker": "WIPRO.NS",
+    "name": "Wipro",
+    "aliases": ["Wipro Ltd", "Wipro"],
+    "sector": "IT",
+    "benchmark20dAvgVol": 6200000
+  },
+  {
+    "symbol": "HCLTECH",
+    "nseTicker": "HCLTECH.NS",
+    "name": "HCL Technologies",
+    "aliases": ["HCL Tech", "HCL Technologies"],
+    "sector": "IT",
+    "benchmark20dAvgVol": 2900000
+  },
+  {
+    "symbol": "ADANIENT",
+    "nseTicker": "ADANIENT.NS",
+    "name": "Adani Enterprises",
+    "aliases": ["Adani Enterprises", "Adani Group", "Gautam Adani"],
+    "sector": "Energy",
+    "benchmark20dAvgVol": 2200000
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "nseTicker": "ADANIPORTS.NS",
+    "name": "Adani Ports and SEZ",
+    "aliases": ["Adani Ports", "APSEZ"],
+    "sector": "Realty",
+    "benchmark20dAvgVol": 3100000
+  },
+  {
+    "symbol": "ZOMATO",
+    "nseTicker": "ZOMATO.NS",
+    "name": "Zomato Ltd",
+    "aliases": ["Zomato", "Blinkit", "Eternal"],
+    "sector": "FMCG",
+    "benchmark20dAvgVol": 35000000
+  }
+]
